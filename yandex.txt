@@ -1,0 +1,1 @@
+yandex.ru##:xpath(//div[a[text()='Реклама']]/..)
