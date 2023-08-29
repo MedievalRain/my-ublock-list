@@ -1,1 +1,3 @@
 yandex.ru##:xpath(//div[a[text()='Реклама']]/..)
+yandex.ru##div[data-chunk="search-result-views-card-footer-view-card-footer-view"]
+yandex.ru##div.toponym-card-view__breadcrumbs
