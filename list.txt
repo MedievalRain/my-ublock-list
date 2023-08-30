@@ -9,3 +9,12 @@ rutracker.org##div.top-alert
 
 new.dtf.ru##.sidebar__footer
 new.dtf.ru##:xpath(//div/div/a/span[text()='Подписка Plus']/ancestor::div[2])
+
+youtube.com##:xpath(//ytd-guide-section-renderer/h3/yt-formatted-string[text()='Explore' or text()='More from YouTube']/ancestor::ytd-guide-section-renderer[1])
+youtube.com##div#footer
+youtube.com##:xpath(//div/div/div/h2/div/div/span[text()='Shorts']/ancestor::div[6])
+youtube.com##yt-button-shape > button[aria-label="Share"]
+youtube.com##yt-button-shape > button[aria-label="Download"]
+youtube.com##yt-button-shape > button[aria-label="Clip"]
+youtube.com##yt-button-shape > button[aria-label="Thanks"]
+
