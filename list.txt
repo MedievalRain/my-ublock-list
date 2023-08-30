@@ -4,3 +4,5 @@ yandex.ru##div.toponym-card-view__breadcrumbs
 
 kinopoisk.ru##div:has(> #hd-onboarding-block)
 kinopoisk.ru##div[class^="styles_plusBadgeCounter"]
+
+rutracker.org##div.top-alert
