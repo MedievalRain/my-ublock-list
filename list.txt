@@ -6,3 +6,6 @@ kinopoisk.ru##div:has(> #hd-onboarding-block)
 kinopoisk.ru##div[class^="styles_plusBadgeCounter"]
 
 rutracker.org##div.top-alert
+
+new.dtf.ru##.sidebar__footer
+new.dtf.ru##:xpath(//div/div/a/span[text()='Подписка Plus']/ancestor::div[2])
