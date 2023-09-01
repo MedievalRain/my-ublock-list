@@ -37,5 +37,6 @@ youtube.com##yt-button-shape > button[aria-label="Clip"]
 youtube.com##yt-button-shape > button[aria-label="Thanks"]
 
 twitter.com##div:has(> aside[aria-label="Subscribe to Premium"])
-twitter.com##:xpath(//div/section/div[@aria-label='Timeline: Trending now']/ancestor::div[2])
+twitter.com##div[aria-label='Timeline: Trending now']:upward(2)
 twitter.com##nav[aria-label="Footer"]
+twitter.com##aside[aria-label="Who to follow"]:upward(2)
