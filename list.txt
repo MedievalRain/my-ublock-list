@@ -2,6 +2,11 @@ yandex.ru##:xpath(//div[a[text()='Реклама']]/..)
 yandex.ru##div[data-chunk="search-result-views-card-footer-view-card-footer-view"]
 yandex.ru##div.toponym-card-view__breadcrumbs
 
+yandex.ru##div[data-zone-name="headerPromo"]
+yandex.ru##div[data-apiary-widget-name="@light/RecomProductBlockSnippet"]:xpath(..)
+yandex.ru##li:has(div > div > a:contains("Распродажа"))
+
+
 kinopoisk.ru##div:has(> #hd-onboarding-block)
 kinopoisk.ru##div[class^="styles_plusBadgeCounter"]
 
