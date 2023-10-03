@@ -47,3 +47,8 @@ twitter.com##div:has(> aside[aria-label="Subscribe to Premium"])
 twitter.com##div[aria-label='Timeline: Trending now']:upward(1)
 twitter.com##nav[aria-label="Footer"]
 twitter.com##aside[aria-label="Who to follow"]:upward(2)
+
+
+deepl.com##footer
+deepl.com##div:has(> button#topnavi-business-flyout-button)
+deepl.com##div:has(> button#topnavi-whydeepl-flyout-button)
