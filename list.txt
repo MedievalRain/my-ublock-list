@@ -14,10 +14,10 @@ rutracker.org##div.top-alert
 rutracker.org##div[id="c-38"]
 
 
-new.dtf.ru##.sidebar__footer
-new.dtf.ru##:xpath(//div/div/a/span[text()='Подписка Plus']/ancestor::div[2])
-new.dtf.ru##.post-branding-bottom
-
+dtf.ru##.sidebar__footer
+dtf.ru##:xpath(//div/div/a/span[text()='Подписка Plus']/ancestor::div[2])
+dtf.ru##.post-branding-bottom
+dtf.ru##:xpath(//div[text()='реклама']/ancestor::div[3])
 
 youtube.com##:xpath(//ytd-guide-section-renderer/h3/yt-formatted-string[text()='Explore' or text()='More from YouTube']/ancestor::ytd-guide-section-renderer[1])
 youtube.com##div#footer
