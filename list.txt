@@ -58,3 +58,8 @@ deepl.com##div:has(> button#topnavi-whydeepl-flyout-button)
 
 expressjs.com###blm-banner
 ##a[href="https://opensource.facebook.com/support-ukraine"]
+
+svtv.org##.post-fullpage-support
+svtv.org##.sb-ad-banner
+svtv.org##.sb-footer
+svtv.org##.page__footer-wrap
