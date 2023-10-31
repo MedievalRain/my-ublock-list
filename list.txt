@@ -6,9 +6,10 @@ yandex.ru##div[data-zone-name="headerPromo"]
 yandex.ru##div[data-apiary-widget-name="@light/RecomProductBlockSnippet"]:xpath(..)
 yandex.ru##li:has(div > div > a:contains("Распродажа"))
 
-
 kinopoisk.ru##div:has(> #hd-onboarding-block)
 kinopoisk.ru##div[class^="styles_plusBadgeCounter"]
+kinopoisk.ru##footer
+kinopoisk.ru##.kinopoisk-header-featured-menu__item
 
 rutracker.org##div.top-alert
 rutracker.org##div[id="c-38"]
