@@ -64,3 +64,9 @@ svtv.org##.post-fullpage-support
 svtv.org##.sb-ad-banner
 svtv.org##.sb-footer
 svtv.org##.page__footer-wrap
+
+ozon.ru##div:has(> button > span > div > div > div > span:has-text(c Ozon Картой))
+ozon.ru##span:has-text(без Ozon Карты)
+ozon.ru##div:has(> div > div > div > a[href^="/highlight"])
+ozon.ru##div:has(> div > div[title="Хит"])
+ozon.ru##div:has(>div>div[data-widget="bannerCarousel"])
