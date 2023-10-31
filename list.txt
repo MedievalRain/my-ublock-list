@@ -54,3 +54,6 @@ twitter.com##aside[aria-label="Who to follow"]:upward(2)
 deepl.com##footer
 deepl.com##div:has(> button#topnavi-business-flyout-button)
 deepl.com##div:has(> button#topnavi-whydeepl-flyout-button)
+
+expressjs.com###blm-banner
+##a[href="https://opensource.facebook.com/support-ukraine"]
