@@ -68,6 +68,9 @@ svtv.org##.page__footer-wrap
 react.dev##div:has(>a[href="https://opensource.fb.com/support-ukraine"])
 react.dev##div:has(>div>p:has-text("Is this page useful?"))
 
+reddit.com##span:has(>a[aria-label="Advertise"])
+
+
 ! ozon.ru##div:has(> button > span > div > div > div > span:has-text(c Ozon Картой))
 ! ozon.ru##span:has-text(без Ozon Карты)
 ! ozon.ru##div:has(> div > div > div > a[href^="/highlight"])
