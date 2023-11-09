@@ -70,9 +70,10 @@ react.dev##div:has(>div>p:has-text("Is this page useful?"))
 
 reddit.com##span:has(>a[aria-label="Advertise"])
 
-
-! ozon.ru##div:has(> button > span > div > div > div > span:has-text(c Ozon Картой))
-! ozon.ru##span:has-text(без Ozon Карты)
-! ozon.ru##div:has(> div > div > div > a[href^="/highlight"])
-! ozon.ru##div:has(> div > div[title="Хит"])
-! ozon.ru##div:has(>div>div[data-widget="bannerCarousel"])
+ozon.ru##div:has(> button > span > div > div > div > span:has-text(c Ozon Картой))
+ozon.ru##span:has-text(без Ozon Карты)
+ozon.ru##div[data-widget="seasonWidget"]
+ozon.ru##div:has(>div[data-widget="blackFridayCounter"])
+ozon.ru##div:has(>div[data-widget="hotsaleMain"])
+ozon.ru##div:has(> div > div[title="Хит"])
+ozon.ru##div:has(>div>div[data-widget="bannerCarousel"])
