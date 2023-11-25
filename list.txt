@@ -18,7 +18,6 @@ youtube.com##yt-button-shape > button[aria-label="Share"]
 youtube.com##yt-button-shape > button[aria-label="Download"]
 youtube.com##yt-button-shape > button[aria-label="Clip"]
 youtube.com##yt-button-shape > button[aria-label="Thanks"]
-youtube.com##div#footer
 
 twitter.com##div:has(> aside[aria-label="Subscribe to Premium"])
 twitter.com##div[aria-label='Timeline: Trending now']:upward(1)
