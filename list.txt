@@ -49,3 +49,5 @@ ozon.ru##div:has(>div[data-widget="blackFridayCounter"])
 ozon.ru##div:has(>div[data-widget="hotsaleMain"])
 ozon.ru##div:has(> div > div[title="Хит"])
 ozon.ru##div:has(>div>div[data-widget="bannerCarousel"])
+
+sass-lang.com##div.sl-c-alert
