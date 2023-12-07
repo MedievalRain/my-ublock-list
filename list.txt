@@ -16,7 +16,7 @@ rutracker.org##div[id="c-38"]
 
 youtube.com##yt-button-shape > button[aria-label="Share"]
 youtube.com##yt-button-shape > button[aria-label="Download"]
-youtube.com##yt-button-shape > button[aria-label="Clip"]
+youtube.com##yt-button-view-model button-view-model button[aria-label="Clip"]
 youtube.com##yt-button-shape > button[aria-label="Thanks"]
 
 twitter.com##div:has(> aside[aria-label="Subscribe to Premium"])
@@ -51,3 +51,5 @@ ozon.ru##div:has(> div > div[title="Хит"])
 ozon.ru##div:has(>div>div[data-widget="bannerCarousel"])
 
 sass-lang.com##div.sl-c-alert
+
+
