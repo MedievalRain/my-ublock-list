@@ -16,6 +16,12 @@ rutracker.org##div[id="c-38"]
 
 youtube.com##yt-button-view-model button-view-model button[aria-label="Clip"]
 youtube.com##yt-button-view-model button-view-model button[aria-label="Thanks"]
+youtube.com##yt-button-shape > button[aria-label="Share"]
+youtube.com##yt-button-shape > button[aria-label="Download"]
+youtube.com##div.ytd-rich-metadata-row-renderer
+youtube.com##div[id="sponsor-button"]
+youtube.com##div[id="action-buttons"]
+youtube.com##a[id="header"]
 
 twitter.com##div:has(> aside[aria-label="Subscribe to Premium"])
 twitter.com##div[aria-label='Timeline: Trending now']:upward(1)
