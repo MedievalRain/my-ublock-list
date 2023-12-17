@@ -56,4 +56,4 @@ ozon.ru##div:has(>div>div[data-widget="bannerCarousel"])
 
 sass-lang.com##div.sl-c-alert
 
-
+developer.mozilla.org##div.top-banner
